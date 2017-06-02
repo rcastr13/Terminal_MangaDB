@@ -1,0 +1,58 @@
+1	FAV	Kami Nomi zo Shiru Sekai/The World God Only Knows	Tamiki Wakaki	Romantic Comedy, Parody, Fantasy, Harem	2008	N/A, Ch. 049, IP	Mon Jun 27 17:16:59 PDT 2016
+2	FAV, NSFW	Prison School	Akira Hiramoto	Comedy, Romance, Romantic Comedy	2011	Ch. 251, CU	Sat May 06 00:16:39 PDT 2017
+3	FAV, NSFL, NSFW	Berserk	Kentaro, Miura	Action, Dark Fantasy, Tragedy	1989	Ch. 349, CU	Tue May 02 00:04:15 PDT 2017
+4	FAV	Monster	Naoki, Urasawa	Mystery, Psychological	1994	Ch. 162, CM	Mon Jun 27 17:16:59 PDT 2016
+5	REGRETS, NSFW, FAV	Minamoto-kun Monogatari	Inaba, Minori	Comedy, Ecchi, Romance, Seinen, Adult, Mature, Incest, Romantic Comedy	2011	Ch. 206, CU	Sat Mar 18 03:18:25 PDT 2017
+6	FAV	One-Punch Man	ONE; Murata, Yuusuke	Comedy, Parody, Superhero, Action	2009	Ch. 004	Mon Jun 27 17:16:59 PDT 2016
+7	NSFW, FAV	Shokugeki no Soma/Food Wars	Yuto, Tsukada	Comedy, Ecchi, Romance, Harem	2012	Ch. 213, CU	Sat May 06 00:43:04 PDT 2017
+8	FAV	Boku dake ga Inai Machi/Erased	Taku, Kishimoto	Fantasy, Thriller	2012	Ch. 44, CM	Mon Jun 27 17:16:59 PDT 2016
+9	NSFW, FAV	30 Year-Old Virgin OL	RURUKO	Josei, Adult, Romance, Smut	2013	CM	Mon Jun 27 17:16:59 PDT 2016
+10	N/A	Aku no Hana/The Flowers of Evil	Shuzo, Oshimi	Bildungsroman, Drama, Psychological Thriller	2009	CM	Mon Jun 27 17:16:59 PDT 2016
+11	NSFW, FAV	Kanojo ha Sore wo Gaman Dekinai/She Cannot Stand It	Shigeyuki, Iwashita	Adult, Comedy, Romance, School Life, Seinen	2008	CM	Mon Jun 27 17:16:59 PDT 2016
+12	FAV	Bakuman	Tsugumi, Ohba	Slice-of-Life, Comedy, Drama, Romance	2008	Ch. 013	Mon Jun 27 17:16:59 PDT 2016
+13	FAV	Tonari no Kaibutsu-kun/My Little Monster	ROBIKO	Romantic Comedy	2008	Ch 052, CM	Fri Jul 29 04:52:23 PDT 2016
+14	???	Dimension W	Yuji, Iwahara	Science Fiction, Action	2011	Ch. 001	Mon Jun 27 17:16:59 PDT 2016
+15	FAV, NSFW	Lupin Sansei/Lupin the Third	MONKEY PUNCH	Adventure, Comedy, Drama, Crime	1967	Ch. 001	Mon Jun 27 17:16:59 PDT 2016
+16	FAV, NSFW	Seikon no Qwaser/The Qwaser of Stigmata	Hiroyuki, Yoshino	Adventure, Supernatural, Ecchi, Adult, Action	2006	Ch. 001	Mon Jun 27 17:16:59 PDT 2016
+17	???	Deadman Wonderland	Jinsei, Kataoka	Action, Horror, Science fiction	2007	Ch. 001	Mon Jun 27 17:16:59 PDT 2016
+18	FAV, NSFW	NHK ni Youkuso!/Welcome to NHK!	Tatsuhiko, Takimoto	Black comedy, Comedy, Drama, Romance	2002	Ch. 002	Mon Jun 27 17:16:59 PDT 2016
+19	???	Nukozuke/Nukoduke	Yugi, Iro	Comedy, Shoujo, Slice of Life	2012	N/A	Mon Jun 27 17:16:59 PDT 2016
+20	???	BugCat-Capoo	YARA	Comedy, Webtoon	2015	Ch. 000.000	Mon Jun 27 17:16:59 PDT 2016
+21	NSFW	Bokutachi no Ikita Riyuu/Our Reason for Living	Watanabe, Kazuyuki	Mystery, Horror, School, Supernatural	2014	Ch. 001	Mon Jun 27 17:16:59 PDT 2016
+22	FAV, NSFW	YuriCam: Yurika no Campus Life/Yurika's Campus Life	Harada, Shigemitsu	Ecchi, Comedy, Yuri, Harem, Seinen	2010	Ch. 002	Mon Jun 27 17:16:59 PDT 2016
+23	FAV, NSFW	Gate: Jietai Kare no Chi nite, Kaku Tatakeri/Gate: The Self-Defense Forces Fight Like This in That Place	Takumi, Yanai	Fantasy, Action, Comedy, Military	2011	Ch. 063, CU	Thu May 04 08:58:08 PDT 2017
+24	NSFW	Trinity Seven: 7-nin no Masho Tsukai/Trinity Seven: The Seven Magicians	Kenji, Sato	Fantasy, Harem, Romantic Comedy	2010	N/A	Mon Jun 27 17:16:59 PDT 2016
+25	NSFW	Shiritsu Hakanai Gakuen/No Pants, No Problem	Konno, Azure	Ecchi, Romance, Comedy, School, Seinen	2013	N/A	Mon Jun 27 17:16:59 PDT 2016
+26	FAV, NSFW	Danjon ni Deai o Motomeru no Machigatteiru Darou ka?/Is It Wrong to Try to Pick Up Girls in a Dungeon?	Fujino, Omori	Fantasy, Action, Comedy, Romance	2013	Ch. 070, CU	Tue May 02 00:12:52 PDT 2017
+27	REGRETS, FAV, NSFW	Ero Manga Sensei	Tsukasa, Fushimi	Romantic Comedy	2014	Ch. 031, CU	Tue May 02 00:21:08 PDT 2017
+28	FAV, NSFW	Kimi ha Midara na Boku no Joou	Okamoto, Lynn	Comedy, Ecchi, Romance, School, Supernatural, Seinen	2012	Ch. 010, CU	Mon Jan 30 12:44:45 PST 2017
+29	FAV, NSFW	Ore no Kouhai ga Konna ni Kawaii Wake ga Nai/My Underclassmen Can't Be This Cute	Fushimi, Tsukasa	Comedy, School, Slice of Life	2011	N/A	Mon Jun 27 17:16:59 PDT 2016
+30	REGRETS, FAV, NSFW	Ore no Imouto ga Konna ni Kawaii Wake ga Nai/My Little Sister Can't Be This Cute	Fushimi, Tsukasa	Comedy, Harem, Romance	2008	N/A	Mon Jun 27 17:16:59 PDT 2016
+31	FAV, NSFW	Citrus	Saburo, Uta	Romance, Yuri	2012	Ch. 001	Mon Jun 27 17:16:59 PDT 2016
+32	FAV	Kuma Miko: Girl Meets Bear	Yoshimoto, Masume	Fantasy, Seinen	2013	N/A	Mon Jun 27 17:16:59 PDT 2016
+33	FAV, NSFW	Maka-Maka	Torajiro, Kishi	Yuri, Smut, Adult, Mature	2003	Ch. 012, IP	Wed Jul 20 19:15:05 PDT 2016
+34	FAV	Netoge no Yome ha Onna no Ko Janai to Omotta?/And You Thought There is Never a Girl Online?	Shibai, Kineko	Comedy, Romance	2014	N/A	Mon Jun 27 17:16:59 PDT 2016
+35	NSFW	Akira	Katsuhiro, Otomo	Cyberpunk, Apocalyptic/Post-apocalyptic, Political Thriller	1982	N/A	Mon Jun 27 17:16:59 PDT 2016
+36	FAV, NSFW, NSFL	Shingeki no Kyojin/Attack on Titan	Hajime, Isayama	Dark fantasy, Post-apocalyptic	2009	Ch. 093, CU	Sat May 06 00:26:02 PDT 2017
+37	NSFW	Imori 201	Imai, Yuu	Comedy, Ecchi, Harem, Mature, Romance, School life, Seinen	2010	N/A	Mon Jun 27 17:16:59 PDT 2016
+38	FAV	Keion!/K-On!	KAKIFLY	Comedy, Slice of Life	2007	N/A	Mon Jun 27 17:16:59 PDT 2016
+39	FAV	Hataraku Maou-sama!/The Devil is a Part-Timer!	Wagaharu, Satoshi; Akio, Hiragi	Action, Comedy, Fantasy	2012	Ch. 042, CU	Tue May 02 00:22:49 PDT 2017
+40	FAV, NSFW	Nanatsu no Taizai/The Seven Deadly Sins	Suzuki, Nakaba	Action, Adventure, Fantasy	2012	Ch. 216, CU	Fri May 05 23:59:41 PDT 2017
+41	FAV	Boku no Hiro Akademia/My Hero Academia	Horikoshi, Kohei	Superhero, Science Fantasy, Comedy, Drama, School	2014	Ch. 136, CU	Thu May 04 08:36:12 PDT 2017
+42	FAV, NSFW	Nozoki Ana/A Peep Hole	Honna, Wakoh	Adult, Ecchi, Harem, Romance, Seinen, Slice of Life	2009	Ch. 117, CM	Thu Oct 27 23:40:31 PDT 2016
+43	FAV, NSFW	Nozomi to Kimio/Nozo X Kimi	Honna, Wakoh	Comedy, Ecchi, Romance, School, Shounen	2011	N/A, IP	Mon Jun 27 17:16:59 PDT 2016
+44	FAV, NSFW	Trash.	Yamamoto, Kenji	Action, Adult, Ecchi, Psychological, Seinen	2010	N/A, IP	Mon Jun 27 17:16:59 PDT 2016
+45	FAV, NSFW	Handoreddo/Hundred	Misaki, Jun	Action, Mecha, Harem	2013	N/A, IP	Mon Jun 27 17:16:59 PDT 2016
+46	FAV	Reraifu/ReLIFE	Yayoi, Sou	Science Fiction, Drama	2013	Ch. 177, CU	Sat May 06 00:25:25 PDT 2017
+47	FAV, NSFW	Masamune-kun no Revenge/Masamune-kun's Revenge	Takeoka, Hazuki; TIV	Comedy, Romance, School, Shounen, Harem	2012	Ch. 040, CU	Thu May 04 10:46:24 PDT 2017
+48	FAV	Nisekoi/Fake Love	Naoshi, Komi	Romantic Comedy, Harem	2011	Ch. 229, CM	Sat Aug 06 19:35:32 PDT 2016
+49	FAV, NSFW	Kuzu no Honkai/Scum's Wish	Yokoyari, Mengo	Drama. Romance, School Life, Seinen	2012	Ch. 047, CU	Tue May 02 00:44:28 PDT 2017
+50	FAV, NSFW	Re:Zero kara Hajimeru Isekai Seikatsu/Re:Zero Starting Life in Another World	Nagatsuki, Tappei	Action, Adventure, Fantasy	2014	Ch. 001, IP	Wed Jul 20 17:33:48 PDT 2016
+51	FAV, NSFW	Aparutomeito/Apart Mate	Inugami, Sukune	Comedy, Ecchi, Romance, Seinen	2004	Ch. 001, IP	Sun Jul 24 23:44:54 PDT 2016
+52	FAV, NSFW	Yu Yu Hakusho	Togashi, Yoshihiro	Action, Mystery, Supernatural	1990	Ch. 001, IP	Sat Aug 27 17:47:05 PDT 2016
+53	FAV, NSFW, NSFL	Akame ga Kiru!/Akame ga Kill!	TAKAHIRO	Action, Dark Fantasy	2010	Ch. 045, IP	Sun Nov 06 15:44:57 PST 2016
+54	FAV	Hantaa x Hantaa/Hunter x Hunter	Yoshihiro, Togashi	Action, Adventure, Fantasy	1998	Ch. 003, IP	Tue Jan 31 09:02:34 PST 2017
+55	FAV	Mobu Saiko Hyaku/Mob Psycho 100	One	Supernatural, Comedy	2012	Ch. 056, IP	Wed Apr 05 12:38:50 PDT 2017
+56	FAV	Demi-chan ha Kataritai/Interviews with Monster Girls	PETOS	Comedy, Supernatural	2014	Ch. 001, IP	Mon Feb 13 17:16:17 PST 2017
+57	FAV, NSFW	Buraddi Mandei/Bloody Monday	Ryo Ryumon	Psychological Thriller, Mystery, Science Fiction, Horror	2007	N/A, IP	Thu Feb 09 14:33:58 PST 2017
+58	FAV	Kobayashi-san Chi no Maid Dragon/Miss Kobayashi's Maid Dragon	Coolkyoushinja	Comedy	2013	N/A, IP	Sun Feb 12 23:11:22 PST 2017
